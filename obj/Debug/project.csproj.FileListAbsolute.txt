@@ -1,0 +1,122 @@
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\bin\Debug\project.exe.config
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\bin\Debug\project.exe
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.backAfterHome.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.cave.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.finall.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.Form1.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.level1.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.exe
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.pdb
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\bin\Debug\project.pdb
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.finall2.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.finall3.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.finall4.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.finall5.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.finall6.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.finall7.resources
+C:\Users\PC\OneDrive\שולחן העבודה\project1\project\obj\Debug\project.finall8.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\bin\Debug\project.exe.config
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\bin\Debug\project.exe
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\bin\Debug\project.pdb
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.backAfterHome.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.cave.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.finall.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.finall2.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.finall3.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.finall4.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.finall5.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.finall6.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.finall7.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.finall8.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.Form1.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.level1.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.exe
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.pdb
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.finallDocment.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.finall9.resources
+C:\Users\PC\OneDrive\שולחן העבודה\פרוייקט גמר\project1\project\obj\Debug\project.fina10.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\bin\Debug\project.exe.config
+C:\Users\Speed\OneDrive\Desktop\project1\project\bin\Debug\project.exe
+C:\Users\Speed\OneDrive\Desktop\project1\project\bin\Debug\project.pdb
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.backAfterHome.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.cave.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.fina10.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.finall.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.finall2.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.finall3.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.finall4.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.finall5.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.finall6.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.finall7.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.finall8.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.finall9.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.finallDocment.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.Form1.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.level1.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.exe
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.pdb
+C:\Users\Speed\OneDrive\Desktop\project1\project\obj\Debug\project.startpage.resources
+E:\New folder\project1\project\bin\Debug\project.exe.config
+E:\New folder\project1\project\bin\Debug\project.exe
+E:\New folder\project1\project\bin\Debug\project.pdb
+E:\New folder\project1\project\obj\Debug\project.csproj.AssemblyReference.cache
+E:\New folder\project1\project\obj\Debug\project.backAfterHome.resources
+E:\New folder\project1\project\obj\Debug\project.cave.resources
+E:\New folder\project1\project\obj\Debug\project.fina10.resources
+E:\New folder\project1\project\obj\Debug\project.finall.resources
+E:\New folder\project1\project\obj\Debug\project.finall2.resources
+E:\New folder\project1\project\obj\Debug\project.finall3.resources
+E:\New folder\project1\project\obj\Debug\project.finall4.resources
+E:\New folder\project1\project\obj\Debug\project.finall5.resources
+E:\New folder\project1\project\obj\Debug\project.finall6.resources
+E:\New folder\project1\project\obj\Debug\project.finall7.resources
+E:\New folder\project1\project\obj\Debug\project.finall8.resources
+E:\New folder\project1\project\obj\Debug\project.finall9.resources
+E:\New folder\project1\project\obj\Debug\project.finallDocment.resources
+E:\New folder\project1\project\obj\Debug\project.Form1.resources
+E:\New folder\project1\project\obj\Debug\project.level1.resources
+E:\New folder\project1\project\obj\Debug\project.Properties.Resources.resources
+E:\New folder\project1\project\obj\Debug\project.startpage.resources
+E:\New folder\project1\project\obj\Debug\project.youWin.resources
+E:\New folder\project1\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\New folder\project1\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\New folder\project1\project\obj\Debug\project.exe
+E:\New folder\project1\project\obj\Debug\project.pdb
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\bin\Debug\project.exe.config
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\bin\Debug\project.exe
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\bin\Debug\project.pdb
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.backAfterHome.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.cave.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.fina10.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.finall.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.finall2.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.finall3.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.finall4.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.finall5.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.finall6.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.finall7.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.finall8.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.finall9.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.finallDocment.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.Form1.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.level1.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.startpage.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.youWin.resources
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.exe
+C:\Users\PC\OneDrive\שולחן העבודה\finalProjectMyWork\project1\project\obj\Debug\project.pdb

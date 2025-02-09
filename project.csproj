@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5C0E03B1-165D-40BD-8E9C-8476683723C1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>project</RootNamespace>
+    <AssemblyName>project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="backAfterHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="backAfterHome.Designer.cs">
+      <DependentUpon>backAfterHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cave.Designer.cs">
+      <DependentUpon>cave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dugma.cs" />
+    <Compile Include="final10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="final10.Designer.cs">
+      <DependentUpon>final10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finall.Designer.cs">
+      <DependentUpon>finall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finall2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finall2.Designer.cs">
+      <DependentUpon>finall2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finall3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finall3.Designer.cs">
+      <DependentUpon>finall3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finall4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finall4.Designer.cs">
+      <DependentUpon>finall4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finall5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finall5.Designer.cs">
+      <DependentUpon>finall5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finall6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finall6.Designer.cs">
+      <DependentUpon>finall6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finall7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finall7.Designer.cs">
+      <DependentUpon>finall7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finall8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finall8.Designer.cs">
+      <DependentUpon>finall8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finall9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finall9.Designer.cs">
+      <DependentUpon>finall9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finallDocment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finallDocment.Designer.cs">
+      <DependentUpon>finallDocment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="level1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="level1.Designer.cs">
+      <DependentUpon>level1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="startpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="startpage.Designer.cs">
+      <DependentUpon>startpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="youWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="youWin.Designer.cs">
+      <DependentUpon>youWin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="backAfterHome.resx">
+      <DependentUpon>backAfterHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cave.resx">
+      <DependentUpon>cave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="final10.resx">
+      <DependentUpon>final10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finall.resx">
+      <DependentUpon>finall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finall2.resx">
+      <DependentUpon>finall2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finall3.resx">
+      <DependentUpon>finall3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finall4.resx">
+      <DependentUpon>finall4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finall5.resx">
+      <DependentUpon>finall5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finall6.resx">
+      <DependentUpon>finall6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finall7.resx">
+      <DependentUpon>finall7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finall8.resx">
+      <DependentUpon>finall8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finall9.resx">
+      <DependentUpon>finall9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finallDocment.resx">
+      <DependentUpon>finallDocment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="level1.resx">
+      <DependentUpon>level1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="startpage.resx">
+      <DependentUpon>startpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="youWin.resx">
+      <DependentUpon>youWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include=".editorconfig" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ss_30cad2252fda04097ab5260606509ea630e6b37b.1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playerBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playerBG1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playerBG2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ppp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\77.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\character_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gggg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Finall.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d9zqg6b-50f04e5e-b24c-4906-9722-d494f41fe62b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\צילום מסך 2024-03-26 084722.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\צילום מסך 2024-03-26 0847221.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man and pi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ffffffffffffff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sgaI3v8JHacQ.gif" />
+    <None Include="Resources\trans6.gif" />
+    <None Include="Resources\vSU2nMZDSk8D1.gif" />
+    <None Include="Resources\transparent6.png" />
+    <None Include="Resources\transparent5.png" />
+    <None Include="Resources\trans5.gif" />
+    <None Include="Resources\trtr.png" />
+    <None Include="Resources\W3Xg0q1.png" />
+    <None Include="Resources\vSU2nMZDSk8D.gif" />
+    <None Include="Resources\trans4.gif" />
+    <None Include="Resources\W3Xg0q.png" />
+    <None Include="Resources\uporiginalpluse3.png" />
+    <None Include="Resources\WRx8pl3.png" />
+    <None Include="Resources\مرقه2.jpg" />
+    <None Include="Resources\حبيبي.png" />
+    <None Include="Resources\صصصصصصصصصصصصصصصصصصصصصصصصصصصصصصصصصصصصص.png" />
+    <None Include="Resources\ضضضضضضضضضضضضضضضضضضضضضضضضضضضضضضضض.jpg" />
+    <None Include="Resources\rightoriginalplus3.png" />
+    <None Include="Resources\WRx8pl2.png" />
+    <None Include="Resources\WRx8pl1.png" />
+    <None Include="Resources\WRx8pl.png" />
+    <None Include="Resources\trans3.gif" />
+    <None Include="Resources\UbhchW.png" />
+    <None Include="Resources\trans2.gif" />
+    <None Include="Resources\zm_hIC2.gif" />
+    <None Include="Resources\uporiginalpluse2.png" />
+    <None Include="Resources\transparent4.png" />
+    <None Include="Resources\wRro9y03Kfnx1.png" />
+    <None Include="Resources\wRro9y03Kfnx.png" />
+    <None Include="Resources\Zt76lyt1Gpkb.png" />
+    <None Include="Resources\xH0IM0eDhQHa.gif" />
+    <None Include="Resources\SlmQcIlz2mel.gif" />
+    <None Include="Resources\trans1.gif" />
+    <None Include="Resources\sss1.png" />
+    <None Include="Resources\sss.png" />
+    <None Include="Resources\uporiginalpluse1.png" />
+    <None Include="Resources\wqeewqrtdfdff.gif" />
+    <None Include="Resources\trans.gif" />
+    <None Include="Resources\transparent3.png" />
+    <None Include="Resources\SERGqNf6UpTI1.png" />
+    <None Include="Resources\transparent2.png" />
+    <None Include="Resources\SERGqNf6UpTI.png" />
+    <None Include="Resources\transparent1.png" />
+    <None Include="Resources\transparent.png" />
+    <None Include="Resources\ub2Bi+.png" />
+    <None Include="Resources\zm_hIC1.gif" />
+    <None Include="Resources\Screenshot 2024-10-26 142359.png" />
+    <None Include="Resources\tiS4Ac1.gif" />
+    <None Include="Resources\xdSePf1XYQpV1.gif" />
+    <None Include="Resources\xdSePf1XYQpV.gif" />
+    <None Include="Resources\tiS4Ac.gif" />
+    <None Include="Resources\rightoriginalplus2.png" />
+    <None Include="Resources\rightoriginalplus1.png" />
+    <None Include="Resources\rightoriginalplus.png" />
+    <None Include="Resources\uporiginalpluse.png" />
+    <None Include="Resources\UcqJbgMcvtR3.gif" />
+    <None Include="Resources\zm-hIC-1729872762671.gif" />
+    <None Include="Resources\ThAwaRbCe9Wq.gif" />
+    <None Include="Resources\rsas.png" />
+    <None Include="Resources\zm_hIC.gif" />
+    <None Include="Resources\woodincave.png" />
+    <None Include="Resources\TextFile1.txt" />
+    <None Include="Resources\up.png" />
+    <None Include="Resources\right1.png" />
+    <None Include="Resources\down.png" />
+    <None Include="Resources\down1.png" />
+    <None Include="Resources\left.png" />
+    <None Include="Resources\IsPlayerNearCube.jpg" />
+    <None Include="Resources\caveImage.jpg" />
+    <None Include="Resources\5592a072ad4d48d9977844955ce584b2.png" />
+    <None Include="Resources\ObDAGmK.gif" />
+    <None Include="Resources\botRight.gif" />
+    <None Include="Resources\botLeft.gif" />
+    <None Include="Resources\botLeft1.jpg" />
+    <None Include="Resources\botRight1.gif" />
+    <None Include="Resources\botLeft1.gif" />
+    <None Include="Resources\botLeft2.gif" />
+    <None Include="Resources\botLeft2.png" />
+    <None Include="Resources\botRight.png" />
+    <None Include="Resources\botLeft2original.png" />
+    <None Include="Resources\botRightoriginal.png" />
+    <None Include="Resources\botLeft21.gif" />
+    <None Include="Resources\botRight2.gif" />
+    <None Include="Resources\e19fd1d8617f22215135d481f591acbf.gif" />
+    <None Include="Resources\botLeft22.gif" />
+    <None Include="Resources\botRight3.gif" />
+    <None Include="Resources\bolion.gif" />
+    <None Include="Resources\5d24edd851f0fb9911eeb5f9298671ed.gif" />
+    <None Include="Resources\b09d35ecddc758d9dc8ce9c94be6218d.gif" />
+    <None Include="Resources\cave2.png" />
+    <None Include="Resources\monster1.gif" />
+    <None Include="Resources\monster1.1.gif" />
+    <None Include="Resources\ezgif-2-1893cf35eb.gif" />
+    <None Include="Resources\monster2.gif" />
+    <None Include="Resources\25162054UwGbfNfl.gif" />
+    <None Include="Resources\1wlj4GuD2xf6.gif" />
+    <None Include="Resources\a233HOJO6UPW.gif" />
+    <None Include="Resources\bRvwGz.png" />
+    <None Include="Resources\b09d35ecddc758d9dc8ce9c94be6218d1.gif" />
+    <None Include="Resources\200w.gif" />
+    <None Include="Resources\18c206d7fd39e008683278bd695e420c.gif" />
+    <None Include="Resources\312215SyRYdWjL.png" />
+    <None Include="Resources\3122220iMLB57uC.png" />
+    <None Include="Resources\1Ictv3.gif" />
+    <None Include="Resources\2KBJeKU1r4uF.gif" />
+    <None Include="Resources\1HfNv3A46QVs.png" />
+    <None Include="Resources\1243254353.png" />
+    <None Include="Resources\8PxlQj.gif" />
+    <None Include="Resources\2KBJeKU1r4uF1.gif" />
+    <None Include="Resources\2KBJeKU1r4uF2.gif" />
+    <None Include="Resources\2KBJeKU1r4uF3.gif" />
+    <None Include="Resources\BBsPdo.gif" />
+    <None Include="Resources\AAAAAAAA.png" />
+    <None Include="Resources\2SWWhi.gif" />
+    <None Include="Resources\2d-retro-video-game-with-screen-that-says-you-win-cup_188161-10111.jpg" />
+    <Content Include="Resources\2EcwFK.gif" />
+    <None Include="Resources\2SWWhi1.gif" />
+    <None Include="Resources\69mGgyIrSlnd.png" />
+    <None Include="Resources\712312YVF4bspw.gif" />
+    <None Include="Resources\BO8eGUDiA7Yb.png" />
+    <None Include="Resources\A+_bft.png" />
+    <Content Include="Resources\bullet.png" />
+    <None Include="Resources\downoriginalplus.png" />
+    <None Include="Resources\Chob3n.gif" />
+    <None Include="Resources\downoriginalplus1.png" />
+    <None Include="Resources\D5hvAo.gif" />
+    <None Include="Resources\download1.jpg" />
+    <None Include="Resources\DvTaY+.gif" />
+    <None Include="Resources\downoriginalplus2.png" />
+    <None Include="Resources\CLcxQCw7ktBt.gif" />
+    <None Include="Resources\bvbdfgfgfd.png" />
+    <None Include="Resources\download.gif" />
+    <None Include="Resources\downoriginalplus3.png" />
+    <None Include="Resources\downoriginalplus4.png" />
+    <None Include="Resources\BWVkrrS53kX5.gif" />
+    <None Include="Resources\BWVkrrS53kX51.gif" />
+    <None Include="Resources\BWVkrrS53kX52.gif" />
+    <Content Include="Resources\ezgif-1-33c4af31af.gif" />
+    <None Include="Resources\monstesincave.gif" />
+    <None Include="Resources\monsterincave.gif" />
+    <None Include="Resources\monsterincave1.gif" />
+    <None Include="Resources\iH9Vjv.gif" />
+    <None Include="Resources\gunincave.png" />
+    <None Include="Resources\ezgif-3-9afac95e37.gif" />
+    <None Include="Resources\oie_25162754ALoqVIFG.gif" />
+    <None Include="Resources\oie_25164451ejFe9uck.gif" />
+    <None Include="Resources\oie_25164451ejFe9uck1.gif" />
+    <None Include="Resources\oie_transparent %282%29.png" />
+    <None Include="Resources\FgqNLszlTm9x.gif" />
+    <None Include="Resources\oie_transparent %2816%29.png" />
+    <None Include="Resources\FgqNLszlTm9x1.gif" />
+    <None Include="Resources\leftoriginalplus.png" />
+    <None Include="Resources\oie_aH1O1LOSzIqM.gif" />
+    <None Include="Resources\kded8neBIPz0.gif" />
+    <None Include="Resources\gUtrYtIpAJzD.gif" />
+    <None Include="Resources\gerge.gif" />
+    <None Include="Resources\oie_transparent %2822%29.png" />
+    <None Include="Resources\oie_qTqNAEt89lgl.png" />
+    <None Include="Resources\fPywjz.gif" />
+    <None Include="Resources\oie_transparent %2826%29.png" />
+    <None Include="Resources\oie_2111147l0MXwVJC.gif" />
+    <None Include="Resources\oie_BORFRCvbtxB2.gif" />
+    <None Include="Resources\oie_Nwq53epyw9Sn.gif" />
+    <None Include="Resources\IwILUTb9Hc4g.gif" />
+    <None Include="Resources\oie_E7CmB3Gjs9oE.png" />
+    <None Include="Resources\oie_E7CmB3Gjs9oE1.png" />
+    <None Include="Resources\oie_tiSvhsey2Jzh.png" />
+    <None Include="Resources\oie_OU8pUPrggzGK.png" />
+    <None Include="Resources\oie_3l0PqFJbtvP3.png" />
+    <None Include="Resources\oie_transparent %2827%29.png" />
+    <None Include="Resources\oie_8JQbVboD5fWt.gif" />
+    <None Include="Resources\Hca6G6BhwJbc.png" />
+    <None Include="Resources\O6GHXvOGrqm7.png" />
+    <None Include="Resources\oie_transparent %2827%291.png" />
+    <None Include="Resources\fqcxnn.gif" />
+    <None Include="Resources\oie_overlay.gif" />
+    <None Include="Resources\NGKbnf7G7XuZ.gif" />
+    <None Include="Resources\Mqh0mzUoueNG1.gif" />
+    <None Include="Resources\fxxxXXl2dgJM.gif" />
+    <None Include="Resources\Ice_Mage.gif" />
+    <None Include="Resources\H1OVv3ufQL8P.gif" />
+    <None Include="Resources\H1OVv3ufQL8P1.gif" />
+    <None Include="Resources\h51FTpG6ojPy.png" />
+    <None Include="Resources\kolRNLmhucXb.jpg" />
+    <None Include="Resources\kolRNLmhucXb1.jpg" />
+    <None Include="Resources\leftoriginalplus1.png" />
+    <None Include="Resources\OCywxn.gif" />
+    <None Include="Resources\OCywxn1.gif" />
+    <None Include="Resources\Jpp8AQ.gif" />
+    <None Include="Resources\oie_transparent %2830%29.png" />
+    <None Include="Resources\ocPRrALkz4c2.gif" />
+    <None Include="Resources\FD219z8tBIb0.gif" />
+    <None Include="Resources\IwILUTb9Hc4g1.gif" />
+    <Content Include="Resources\jyM6Pr.gif" />
+    <None Include="Resources\ocPRrALkz4c21.gif" />
+    <None Include="Resources\marka1.png" />
+    <None Include="Resources\marka2.png" />
+    <None Include="Resources\marka3.png" />
+    <None Include="Resources\ObdAMMwu6jUU.png" />
+    <Content Include="Resources\oie_transparent %289%29.png" />
+    <None Include="Resources\oie_transparent %289%291.png" />
+    <None Include="Resources\PA4GrM.png" />
+    <None Include="Resources\Pssa+p.png" />
+    <None Include="Resources\Pssa+p3.png" />
+    <None Include="Resources\Pssa+p4.png" />
+    <None Include="Resources\oie_ZCx3AY6LuIt9.gif" />
+    <None Include="Resources\oie_xdSePf1XYQpV.gif" />
+    <None Include="Resources\QEds0ex1Ii48.gif" />
+    <None Include="Resources\P6IPZRozEj5A.png" />
+    <None Include="Resources\oie_xNy2tQpCYxET.gif" />
+    <None Include="Resources\PIuk47.gif" />
+    <None Include="Resources\pDNSITpwYnws.png" />
+    <Content Include="Resources\r1.png" />
+    <None Include="Resources\RBNkXJqc85wn.gif" />
+    <Content Include="Resources\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
